@@ -1,3 +1,4 @@
+// Selecting elements
 const inputBox = document.querySelector('.input-box');
 const searchBtn = document.getElementById('search');
 const weather_img = document.querySelector('.weather-img');
